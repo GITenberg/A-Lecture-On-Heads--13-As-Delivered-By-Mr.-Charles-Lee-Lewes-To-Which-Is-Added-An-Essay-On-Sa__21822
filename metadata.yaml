@@ -1,0 +1,32 @@
+_repo: A-Lecture-On-Heads--13-As-Delivered-By-Mr.-Charles-Lee-Lewes-To-Which-Is-Added-An-Essay-On-Sa__21822
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21822-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stevens, George Alexander
+    alias: Stevens, G. A. (George Alexander)
+    birthdate: 1710
+    deathdate: 1780
+    gutenberg_agent_id: '24909'
+    url: http://www.gutenberg.org/2009/agents/24909
+    wikipedia: http://en.wikipedia.org/wiki/George_Alexander_Stevens
+description: 'Contents of volume: [2] The deserted daughter, by T. Holcroft. ---[3]
+  Reparation, by T.P. Lathy. --[5] The stranger, by A.F.F. von Kotzebue.'
+gutenberg_issued: '2007-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21822'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Characters and characteristics'
+- !lcsh 'Satire'
+- !lcc 'PR'
+title: "A Lecture On Heads\r\nAs Delivered By Mr. Charles Lee Lewes, To Which Is Added,\
+  \ An Essay On Satire, With Forty-Seven Heads By Nesbit, From Designs By Thurston,\
+  \ 1812"
+url: http://www.gutenberg.org/ebooks/21822
