@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/George_Alexander_Stevens
 description: 'Contents of volume: [2] The deserted daughter, by T. Holcroft. ---[3]
   Reparation, by T.P. Lathy. --[5] The stranger, by A.F.F. von Kotzebue.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21822#A-Lecture-On-Heads--13-As-Delivered-By-Mr.-Charles-Lee-Lewes-To-Which-Is-Added-An-Essay-On-Sa_
 gutenberg_issued: '2007-06-12'
 gutenberg_type: Text
 identifiers:
